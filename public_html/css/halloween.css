@@ -1,0 +1,73 @@
+head {
+	font-family: century,sans-serif;
+}
+body {
+	background: #ff7400;
+	font-family: century,sans-serif;
+}
+
+header {
+	background-color: #090400;
+	font-family: century,sans-serif;
+	color: white;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a64b00;
+  font-family: century,sans-serif;
+}
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+table{
+	background: #ffffff;
+	font-family: century,sans-serif;
+
+}
+article{
+	 border-style: solid;
+	 border-color: #ffffff;
+  border-width: 5px;
+  border-radius: 0px;
+  margin: 6px;
+  padding: 4px;
+}
+
+.prerequisite {
+  font-style: italic;
+  font-size: 15px;
+}
+
+#aboutus {
+	text-align: center;
+	color: #000000;
+}
+
+nav li a:hover{
+	background-color: #000000;
+}
+h3{
+	
+	color: #ff0000;
+}
+h5{
+	font-style: italic;
+	
+	color: #ff0000;
+}
+h2{
+
+	color: #ffffff;
+}
