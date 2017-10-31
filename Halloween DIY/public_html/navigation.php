@@ -21,26 +21,26 @@
 			</li>
 
 			<li>
-				<a href="about.html">About</a>
+				<a href="about.php">About</a>
 			</li>
 
 			<li>
-				<a href="mummy.html">Cute Mummy Candles</a>
+				<a href="mummy.php">Cute Mummy Candles</a>
 			</li>
 
 			<li>
-				<a href="banner.html">Halloween Banner</a>
+				<a href="banner.php">Halloween Banner</a>
 			</li>
 
 			<li>
-				<a href="ghosts.html">Hanging Ghosts</a>
+				<a href="ghosts.php">Hanging Ghosts</a>
 			</li>
 
 			<li>
-				<a href="candy_corn.html">Candy Corn Decoration</a>
+				<a href="candy_corn.php">Candy Corn Decoration</a>
 
-			<li> <a href="signup.html">Sign Up</a>
-			<li> <a href="login.html">Login</a>
+			<li> <a href="signup.php">Sign Up</a>
+			<li> <a href="login.php">Login</a>
 			</li>
           </ul>
         </div>
