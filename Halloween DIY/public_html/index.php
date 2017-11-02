@@ -32,10 +32,10 @@ include 'navigation.php';
 <table class="table table-striped table-hover">
   <thead>
     <tr>
-      <th><div align="center"><a href="mummy.html" class="btn btn-primary">Cute Mummy Candles</a></div></th>
-      <th><div align="center"><a href="banner.html" class="btn btn-primary">Halloween Banner</a></div></th>
-      <th><div align="center"><a href="ghosts.html" class="btn btn-primary">Hanging Ghosts</a></div></th>
-      <th><div align="center"><a href="candy_corn.html" class="btn btn-primary">Candy Corn Decoration</a></div></th>
+      <th><div align="center"><a href="mummy.php" class="btn btn-primary">Cute Mummy Candles</a></div></th>
+      <th><div align="center"><a href="banner.php" class="btn btn-primary">Halloween Banner</a></div></th>
+      <th><div align="center"><a href="ghosts.php" class="btn btn-primary">Hanging Ghosts</a></div></th>
+      <th><div align="center"><a href="candy_corn.php" class="btn btn-primary">Candy Corn Decoration</a></div></th>
     </tr>
   </thead>
   <tbody>
