@@ -22,7 +22,7 @@ include 'navigation.php';
   <h1>Caitlin and Hannah's Halloween Crafts</h1>
   <p>We are here to bring you affordable, and adorable homemade ideas for Halloween crafts!!!</p>
   <p>Sign Up for our SPOOKY NEWSLETTERS!</p>
-  <p><a href="signup.html" class="btn btn-primary btn-lg">Sign Up</a></p>
+  <p><a href="signup.php" class="btn btn-primary btn-lg">Sign Up</a></p>
 </div>
 
 <img alt='pumpkin header image' src="images/pumpkin.jpg" height="200" width="200"/>
