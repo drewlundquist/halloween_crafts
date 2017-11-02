@@ -59,11 +59,9 @@ include 'navigation.php';
 </article>
 </div>
 
-<footer> 
-<h5>Caitlin and Hannah's Halloween Crafts</h5> 
-<!-- The font in the footer needs to be smaller- we can use CSS later? -->
-<p> <p class= "prerequisite"> If you have any questions, contact Caitlin or Hannah by their school e-mail (which is currently not active yet).</p>
-</footer>
+<?php
+include 'footer.php';
+?>
 
 </body>
 

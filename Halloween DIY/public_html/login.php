@@ -58,4 +58,7 @@ include 'navigation.php';
   <h4>Warning!</h4>
   <p>If you do not already have an account with us, try us out and learn a lot about Holiday Crafts! <a href="signup.html" class="alert-link">Go to Sign Up</a>.</p>
 </div>
-</footer>
+<?php
+include 'footer.php';
+?>
+</html> 

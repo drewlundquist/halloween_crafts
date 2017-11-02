@@ -83,3 +83,8 @@ include 'navigation.php';
     </div>
   </fieldset>
 </form>
+<?php
+include 'footer.php';
+?>
+
+</html>
